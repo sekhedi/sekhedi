@@ -55,5 +55,4 @@
 
 ###
 
-### Link  https://sekhedi.github.io/CV/        
-https://www.linkedin.com/in/hedi-sekrafi-74b327146
+
